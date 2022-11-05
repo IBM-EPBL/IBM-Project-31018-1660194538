@@ -41,11 +41,5 @@
 
 </body>
 </html>
-<!DOCTYPE html>
-<html>
-<body>
-<img src="care.jpg" alt="care.jpg" width="500" height="333">
 
-</body>
-</html>
 

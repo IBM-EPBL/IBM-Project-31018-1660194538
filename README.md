@@ -1,5 +1,26 @@
 # WELCOME TO OUR PROJECT!!!
 ## CUSTOMER CARE REGISTRY
+<html>
+<head>
+<style>
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+</style>
+</head>
+<body>
+<h2>COSTOMER CARE REGISTRY</h2>
+
+<img src="care.jpg" alt="care" style="width:150px">
+
+</body>
+</html>
+
+
+
 
 <!DOCTYPE html>
 <html>

@@ -3,11 +3,9 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<img src="customer.jpg" width="900" height="538">
+<img src="customer.jpg" width="500" height="438">
 </head>
 </html>
-
-
 <!DOCTYPE html>
 <html>
 <body>

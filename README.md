@@ -1,8 +1,12 @@
 # WELCOME TO OUR PROJECT!!!
 ## CUSTOMER CARE REGISTRY
 
+
 <!DOCTYPE html>
 <html>
+  <head>
+<img src="customer.jpg" width="900" height="538">
+</head>
 <body>
 <h2>TEAM MEMBERS</h2>
 <table>

@@ -57,7 +57,7 @@ This Application has been developed to help the customer in processing their com
 - PYTHON<br />
 - FLASK<br />
 - DOCKER<br />
-- ## 🈸 SKILLS REQUIRED
+## 🈸 SKILLS REQUIRED
 |    |   |   |
 | :---:         |     :---:      |          :---: | 
 | IBM CLOUD   | HTML     | CSS    | JAVASCRIPT | 
@@ -65,6 +65,4 @@ This Application has been developed to help the customer in processing their com
 | IBM CONTAINER REGISTRY | IBM CLOUD OBJECT | IBM DB2 |
 | | | |
 
-
-- 
 

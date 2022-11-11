@@ -53,7 +53,7 @@ This Application has been developed to help the customer in processing their com
  They can register for an account.  After the login, they can create the complaint with a description of the problem they are facing.  Each user will be assigned with an agent.  They can view the status of their complaint.
 <hr>
 
-# 👨🏻‍💻 SOFTWARE REQUIRED <br />
+# 🏻‍💻 SOFTWARE REQUIRED <br />
 - PYTHON<br />
 - FLASK<br />
 - DOCKER<br />

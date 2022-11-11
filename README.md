@@ -90,11 +90,11 @@ This Application has been developed to help the customer in processing their com
 - [x] Data Flow Diagrams
 - [x] Technology Stack
 
-# PLANNING PHASE
+#🧨 PLANNING PHASE
 - [x] Milestone and Activity List
 - [x] Sprint Delivery plan
 
-# PROJECT DEVELOPMENT 
+#🧨 PROJECT DEVELOPMENT 
 - [x] SPRINT 01
 - [x] SPRINT 02
 - [x] SPRINT 03

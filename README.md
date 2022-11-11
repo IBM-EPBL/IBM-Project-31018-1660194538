@@ -101,38 +101,7 @@ This Application has been developed to help the customer in processing their com
 - [x] SPRINT 04
 
 <hr>
-<html>
-<style>
-body {
-  background-color: #191919;
-}
-#loading-app {
-  display: flex;
-  height: 100vh;
-}
-.loading-main {
-  margin: auto
-}
-.loading-svg {
-  fill: currentColor;
-  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
-}
-.loading-failed {
-  display: none;
-}
-.loading-failed.active {
-  display: block;
-}
 
-@keyframes pulse {
-  0%, 100% {
-    opacity: 1;
-  }
-  50% {
-    opacity: .5;
-  }
-}
-</style>
 
 
 

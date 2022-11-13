@@ -1,7 +1,6 @@
-{% extends 'base.html' %}
-
-    {% block body %}
-        <form method="POST" class="register-form">
+<html>
+<body>
+       <form method="POST" class="register-form">
             <div class="container">
                 <h2>Administrator Sign-Up</h2>
                 <div class="mb-3">
@@ -23,9 +22,12 @@
                     </div>
                     <div class="col-auto">
                         <button type="submit" class="btn btn-primary mb-3">Create Account</button>
+                        <button type="submit" class="btn btn-primary mb-3">forget password</button>
                     </div>
                 </div>
                 <p>Already have an Account ? <a href="{{ url_for('login') }}">Login</a></p>
             </div>
         </form>
-    {% endblock %}
+    
+</body
+</html>

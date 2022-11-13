@@ -1,6 +1,5 @@
-{% extends 'base.html' %}
-
-    {% block body %}
+<html>
+<body>
         <div class="container">
             <div class="row">
                 <div class="col">
@@ -8,9 +7,9 @@
                     <div class="container">
                         <form method="POST">
                             <select name="admin-candidate">
-                                {% for user in all_users %}
+                               
                                     <option value="{{user[4]}}">{{user[0]}}</option>
-                                {% endfor %}
+                                
                             </select>
                             <input class="btn btn-danger btn-sm" type="submit" value="Make Agent"/>
                         </form>
@@ -28,17 +27,18 @@
                             </tr>
                             </thead>
                             <tbody>
-                                {% for ticket in tickets %}
+                                
                                     <tr>
-                                        <td>{{ ticket[3] }}</td>
-                                        <td>{{ ticket[4] }}</td>
+                                        <td>{{ ticket[1] }}</td>
+                                        <td>{{ ticket[2] }}</td>
                                         <td><a href="/ticket/{{ticket[0]}}"><button class="btn btn-primary">View</button></a></td>
                                     </tr>
-                                {% endfor %}
+                               
                             </tbody>
                         </table>
                     </div>
                 </div>
             </div>
         </div>
-    {% endblock %}
+    </body>
+</html>
